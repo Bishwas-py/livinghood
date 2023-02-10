@@ -3,4 +3,5 @@
 - Freedom of expression
 - Accountancy and Transparency
 - Equality and same livinghood
-- freedom of religion
+- Freedom of religion
+- Freedom of choice
