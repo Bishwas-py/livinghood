@@ -4,3 +4,6 @@ We as human have been through a lot of wars, natural events and ruling systems. 
 are being continuosly changed and we are still not satisfied with the current one.
 
 From the beginning of the human history, we have been ruled by kings, queens, emperors and dictators. Monarchy to capitalism to communism to socialism to democracy, every ruling system feels to be flawed.
+
+By no means Livinghood is a perfect ideology, but it is a step forward to a better world. As it's an open-source ideology, it can be improved by anyone.
+
