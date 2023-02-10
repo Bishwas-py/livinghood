@@ -7,3 +7,6 @@ From the beginning of the human history, we have been ruled by kings, queens, em
 
 By no means Livinghood is a perfect ideology, but it is a step forward to a better world. As it's an open-source ideology, it can be improved by anyone.
 
+## Livinghood for layman
+
+Livinghood is a status that considers everyone to be equal a dark-skinned guy and a fair-skinned lady are equal in the sense of existence and common respect.
