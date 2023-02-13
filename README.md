@@ -10,3 +10,5 @@ By no means Livinghood is a perfect ideology, but it is a step forward to a bett
 ## Livinghood for layman
 
 Livinghood is a status that considers everyone to be equal a dark-skinned guy and a fair-skinned lady are equal in the sense of existence and common respect.
+
+<!-- import BASE.md -->
