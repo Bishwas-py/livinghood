@@ -5,3 +5,5 @@
 - Equality and same livinghood
 - Freedom of religion
 - Freedom of choice
+- Right to a fair and impartial legal process
+- Freedom of assembly
